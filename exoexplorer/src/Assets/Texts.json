@@ -1,0 +1,8 @@
+{
+    "Intro" : "Your spaceship has been tasked with finding alien life in the galaxy, you must travel trough multiple exoplanets suspected from harboring life forms.",
+    "Rules" : "You will see 4 possible planets in your range, you must choose one and survive the voyage. You will have to keep an eye into your ship's energy and life levels, dont let them drop to 0 or increase too much or you will loose",
+    "HpLoss": "Unfortunately, your ship's hull can't endure more, you are forced to return to your base. GAME OVER",
+    "EnergyLowLoss" : "Your energy levels are almost zero, you spend your emergency energy to call for help. GAME OVER",
+    "EnergyHighLoss": "You have overloaded your ship, you must return to base before it's too late. GAME OVER",
+    "Win" : "You have found a planet which harbors some kind of plant life, you have collected some samples and returned victorious to your base. CONGRATULATIONS"
+}
