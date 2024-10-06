@@ -400,331 +400,331 @@
             "name": "BD+20 594 b",
             "description": "Found in 2016, BD+20 594 b is a large exoplanet with an impressive 41-day orbit around a G-type star. Its relatively cool temperature of 546 K could make it a more temperate world than other gas giants.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties your lives are safe, your energy units are safe and you get 96 points",
+            "effectsDescription": "You manage to travel throught an unusual calm air current, nothing happens",
             "image": "gasgiant2.png",
             "effects": {
                 "life": 0,
-                "energy": -4,
-                "points": 96
+                "energy": 0,
+                "points": 50
             }
         },
         {
             "name": "K2-29 b",
             "description": "K2-29 b, discovered by the Kepler mission in 2016, is a hot gas giant orbiting a K-type star. With a 3.2-day orbit and temperatures reaching 1076 K, this planet is an example of a classic hot Jupiter.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 5 energy units and you get 75 points",
+            "effectsDescription": "You spend some time investigating the properties of this planet atmosphere, you lose 1 energy",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -10,
-                "energy": -5,
-                "points": 75
+                "life": 0,
+                "energy": -1,
+                "points": 250
             }
         },
         {
             "name": "LHS 1140 b",
             "description": "This rocky planet, discovered in 2017, orbits a cool M4.5-type star. With a long 24.7-day orbit and a cooler temperature of 226 K, LHS 1140 b might offer one of the best opportunities to study potentially habitable conditions.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 10 energy units and you get 94 points",
+            "effectsDescription": "You find an interesting rock formation. Yes, that's all, take 1 energy for the troubles",
             "image": "neptunelike1.png",
             "effects": {
-                "life": -3,
-                "energy": -10,
-                "points": 94
+                "life": 0,
+                "energy": 1,
+                "points": 1
             }
         },
         {
             "name": "pi Men c",
             "description": "Discovered by TESS in 2018, pi Men c is a small, dense planet orbiting a G0 V star. Its 6.2-day orbit and temperature of 1169.8 K suggest it could have a molten surface or thick atmosphere.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 8 energy units and you get 82 points",
+            "effectsDescription": "You manage to land on a rock flowing through a river of molten material, useful for scientific study, but not ver safe",
             "image": "neptunelike2.png",
             "effects": {
-                "life": -4,
-                "energy": -8,
-                "points": 82
+                "life": 0,
+                "energy": 0,
+                "points": 500
             }
         },
         {
             "name": "HAT-P-68 b",
             "description": "HAT-P-68 b, a hot Jupiter orbiting a K-type star, was discovered in 2021. With a temperature of 1027.8 K and a 2.29-day orbit, this planet likely has extreme weather patterns and a thick gaseous atmosphere.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 7 energy units and you get 95 points",
+            "effectsDescription": "A sudden lightning shuts off your spaceship completely, you manage to restart it but you receive 15 damage",
             "image": "gasgiant2.png",
             "effects": {
-                "life": -1,
-                "energy": -7,
-                "points": 95
+                "life": -15,
+                "energy": 0,
+                "points": 65
             }
         },
         {
             "name": "TOI-125 b",
             "description": "TOI-125 b, found in 2019, is a dense planet with a short 4.6-day orbit around a K-type star. Its moderate temperature of 1037 K makes it an intriguing target for atmospheric characterization studies.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 3 energy units and you get 50 points",
+            "effectsDescription": "You release a rod to attrack lightning and try to power your ship, but nothing struck",
             "image": "neptunelike1.png",
             "effects": {
-                "life": -8,
-                "energy": -3,
-                "points": 50
+                "life": 0,
+                "energy": 0,
+                "points": -1
             }
         },
         {
             "name": "HD 97658 b",
             "description": "Discovered via radial velocity in 2011, HD 97658 b is a dense planet with a 9.4-day orbit around a K-type star. With a temperature of 757 K, it offers a rare example of a temperate super-Earth-like planet.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties your lives are safe, you get 3 energy units and you get 87 points",
+            "effectsDescription": "You slip on the ice, you are fine, but the embarrasment makes you leave the planet",
             "image": "neptunelike1.png",
             "effects": {
                 "life": 0,
-                "energy": 3,
-                "points": 87
+                "energy": 0,
+                "points": -50
             }
         },
         {
             "name": "HD 118203 b",
             "description": "Discovered in 2006 using radial velocity, HD 118203 b is a massive planet orbiting a K0-type subgiant star. With a 6.13-day orbit and a temperature of 1371 K, this gas giant likely experiences extreme atmospheric conditions.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 energy units and you get 69 points",
+            "effectsDescription": "You believed a giant creature was travelling trought the storm, it was your ship shadow",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -10,
-                "energy": -7,
-                "points": 69
+                "life": 0,
+                "energy": 0,
+                "points": -100
             }
         },
         {
             "name": "TOI-3261 b",
             "description": "Found by TESS in 2024, TOI-3261 b is a hot exoplanet orbiting a K1.5 star. Its extremely short 0.88-day orbit and high temperature of 1722 K suggest that it might be tidally locked, with one side always facing its host star.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 8 energy units and you get 72 points",
+            "effectsDescription": "You spend some time moving between the part of the planet facing the star and the other one like a kid, at least you're happy",
             "image": "gasgiant1.png",
             "effects": {
-                "life": -4,
-                "energy": -8,
-                "points": 72
+                "life": 0,
+                "energy": 0,
+                "points": 69
             }
         },
         {
             "name": "Qatar-10 b",
             "description": "Qatar-10 b is a hot Jupiter orbiting an F7-type star, discovered in 2019. With a searing temperature of 1955 K and a 1.64-day orbit, this planet is a prime candidate for studying atmospheric loss and stellar interactions.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 6 energy units and you get 94 points",
+            "effectsDescription": "You saw the VOYAGER passing nearby the planet, what is it doing here?",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -4,
-                "energy": -6,
-                "points": 94
+                "life": 0,
+                "energy": 0,
+                "points": 9999
             }
         },
         {
             "name": "WASP-121 b",
             "description": "Discovered by SuperWASP in 2016, WASP-121 b is a large gas giant with a temperature of 2358 K. With its close 1.27-day orbit around an F6 star, it\u2019s one of the most intensely irradiated planets, likely experiencing atmospheric escape.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 3 energy units and you get 74 points",
+            "effectsDescription": "You spend your time studying the atmosphere of the planet",
             "image": "gasgiant2.png",
             "effects": {
-                "life": -8,
-                "energy": -3,
-                "points": 74
+                "life": 0,
+                "energy": 0,
+                "points": 500
             }
         },
         {
             "name": "GJ 1132 b",
             "description": "GJ 1132 b is a rocky planet orbiting a cool M4.5 dwarf star. Discovered in 2015, this planet\u2019s close orbit of just 1.6 days and temperature of 409 K make it a fascinating target for studying potential atmospheric processes.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you get 5 energy units and you get 55 points",
+            "effectsDescription": "You find a huge gold vein in the surface, WE ARE RICH!!",
             "image": "superearth1.png",
             "effects": {
-                "life": -5,
-                "energy": 5,
-                "points": 55
+                "life": 0,
+                "energy": 0,
+                "points": 333
             }
         },
         {
             "name": "L 98-59 d",
             "description": "L 98-59 d is a small planet discovered in 2019 by TESS. Orbiting a cool M3-type star, its 7.45-day orbit and moderate temperature of 416 K could place it within the outer edge of the habitable zone.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 1 energy units and you get 78 points",
+            "effectsDescription": "You find some materials that your ship can turn into fuel, you regain 25 energy",
             "image": "superearth1.png",
             "effects": {
-                "life": -2,
-                "energy": -1,
-                "points": 78
+                "life": 0,
+                "energy": 25,
+                "points": 250
             }
         },
         {
             "name": "GJ 806 b",
             "description": "Found in 2023, GJ 806 b is a small exoplanet orbiting a cool M1.5-type star. Its short 0.92-day orbit and 940 K temperature suggest it may have a thick atmosphere or molten surface.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you get 5 energy units and you get 80 points",
+            "effectsDescription": "You find the perfect combination of minerals in the surface to create spare parts for your ship, LUCKY",
             "image": "superearth3.png",
             "effects": {
-                "life": -4,
-                "energy": 5,
-                "points": 80
+                "life": 100,
+                "energy": 0,
+                "points": 1000
             }
         },
         {
             "name": "TOI-561 c",
             "description": "TOI-561 c, discovered by TESS in 2020, is a dense planet orbiting a G9-type star. With a 10.7-day orbit and a relatively cool temperature of 800 K, this planet may have a stable atmosphere or water vapor.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you get 5 energy units and you get 53 points",
+            "effectsDescription": "Because this part of the planet is frozen, you decide to build a snowman, take 5 reference damage",
             "image": "neptunelike1.png",
             "effects": {
                 "life": -5,
-                "energy": 5,
-                "points": 53
+                "energy": 0,
+                "points": -5
             }
         },
         {
             "name": "TOI-4127 b",
             "description": "TOI-4127 b is a gas giant orbiting an F-type star with a long 56-day period. Discovered in 2023, its moderate temperature of 605 K and wide orbit make it an interesting candidate for further observation of long-term orbital stability.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you get 3 energy units and you get 78 points",
+            "effectsDescription": "You spend your time orbiting the planet, it is an interesting topic for your next scient project",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -7,
-                "energy": 3,
-                "points": 78
+                "life": 0,
+                "energy": 0,
+                "points": 500
             }
         },
         {
             "name": "KELT-18 b",
             "description": "KELT-18 b, discovered in 2017, is a hot gas giant with a temperature of 2085 K. Orbiting a hot F4-type star every 2.87 days, it\u2019s a classic example of a 'hot Jupiter,' with intense heat and potential atmospheric escape.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 9 energy units and you get 68 points",
+            "effectsDescription": "You spend some time collecting some dust particles surrounding the planet, you make an iron plate of them, regain 10 hit points",
             "image": "gasgiant1.png",
             "effects": {
-                "life": -4,
-                "energy": -9,
-                "points": 68
+                "life": 10,
+                "energy": 0,
+                "points": 12
             }
         },
         {
             "name": "TOI-1685 b",
             "description": "TOI-1685 b, found in 2021, is a small, rocky planet orbiting an M3.0-type star in less than a day. With a surface temperature of 1069 K, this planet experiences intense stellar radiation, which could impact its atmospheric composition.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 9 energy units and you get 53 points",
+            "effectsDescription": "You forgot to bring you're special hazmat suit, you decide to leave the planet alone",
             "image": "superearth1.png",
             "effects": {
-                "life": -6,
-                "energy": -9,
-                "points": 53
+                "life": 0,
+                "energy": 0,
+                "points": -100
             }
         },
         {
             "name": "KELT-23 A b",
             "description": "Found in 2019, KELT-23 A b is a hot gas giant orbiting a G2-type star. Its short 2.25-day orbit and temperature of 1561 K make it a typical 'hot Jupiter,' a gas giant with blistering surface temperatures.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you get 3 energy units and you get 62 points",
+            "effectsDescription": "The probe literally melts before your eyes, lucky for you, it was the spare probe",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -8,
-                "energy": 3,
-                "points": 62
+                "life": 0,
+                "energy": 0,
+                "points": 150
             }
         },
         {
             "name": "LHS 1140 c",
             "description": "Orbiting a cool M4.5 dwarf star, LHS 1140 c is a rocky planet with a 3.77-day orbit. Discovered in 2019, it has a surface temperature of 422 K, making it an intriguing planet for further atmospheric studies.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you get 2 energy units and you get 72 points",
+            "effectsDescription": "You decide to repair your ship, you manage to recover 30 hit points",
             "image": "superearth3.png",
             "effects": {
-                "life": -10,
-                "energy": 2,
-                "points": 72
+                "life": 30,
+                "energy": 0,
+                "points": 30
             }
         },
         {
             "name": "TOI-1386 b",
             "description": "TOI-1386 b is a gas giant planet with a relatively long 25.8-day orbit. Discovered by TESS in 2024, this planet orbits a G5V-type star and has a temperature of 676 K, suggesting it resides further from its host star than typical hot Jupiters.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you get 3 energy units and you get 81 points",
+            "effectsDescription": "The beauty of the atmosphere fills you with determination",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -9,
-                "energy": 3,
-                "points": 81
+                "life": 5,
+                "energy": 5,
+                "points": 5
             }
         },
         {
             "name": "TOI-837 b",
             "description": "Discovered by TESS in 2020, TOI-837 b is a massive planet orbiting an F9\/G0-type star. With an 8.3-day orbit and a temperature of 995 K, this planet may have a thick, extended atmosphere due to its relatively moderate heating.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 energy units and you get 75 points",
+            "effectsDescription": "You can cut the atmosphere here with a knife, literally",
             "image": "gasgiant1.png",
             "effects": {
-                "life": -10,
-                "energy": -7,
-                "points": 75
+                "life": 0,
+                "energy": 0,
+                "points": 121
             }
         },
         {
             "name": "WASP-193 b",
             "description": "WASP-193 b is a large gas giant orbiting an F9-type star, discovered in 2023. With a 6.2-day orbit and temperature of 1254 K, it falls into the category of 'hot Jupiters,' with an atmosphere that could be influenced by its star\u2019s intense radiation.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 10 energy units and you get 56 points",
+            "effectsDescription": "It rains molten silver, what an interesting phenomena, you take 5 damage from the molten silver",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -7,
-                "energy": -10,
-                "points": 56
+                "life": -5,
+                "energy": 0,
+                "points": 50
             }
         },
         {
             "name": "K2-30 b",
             "description": "A hot Jupiter discovered by the K2 mission in 2016, K2-30 b orbits its G6-type star in just over 4 days. With a temperature of 1092 K, this gas giant experiences significant atmospheric heating due to its close proximity to the star.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 3 energy units and you get 55 points",
+            "effectsDescription": "A barren land extends to the infitine, mercury all over again",
             "image": "gasgiant2.png",
             "effects": {
-                "life": -4,
-                "energy": -3,
-                "points": 55
+                "life": 0,
+                "energy": 0,
+                "points": 150
             }
         },
         {
             "name": "TOI-558 b",
             "description": "TOI-558 b is a large gas giant discovered in 2022. It orbits an F-type star in 14.57 days, with a temperature of 1061 K. Its size and moderate orbit make it an ideal target for atmospheric characterization.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 9 energy units and you get 62 points",
+            "effectsDescription": "What at first seemed like a blackout from the impact of a lightning, resulted in your batteries getting some more juice, you gain 15 energy",
             "image": "gasgiant2.png",
             "effects": {
-                "life": -3,
-                "energy": -9,
-                "points": 62
+                "life": 0,
+                "energy": 15,
+                "points": 15
             }
         },
         {
             "name": "K2-24 c",
             "description": "K2-24 c is a gas giant discovered in 2016. With a 42-day orbit and a temperature of 606 K, this planet orbits a G3-type star and provides a valuable case for studying gas giants at wider separations.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you get 3 energy units and you get 88 points",
+            "effectsDescription": "You wonder if the atmosphere here is abrasive, turns out you were right, you take 20 damage",
             "image": "gasgiant3.png",
             "effects": {
-                "life": -7,
-                "energy": 3,
-                "points": 88
+                "life": -20,
+                "energy": 0,
+                "points": 99
             }
         },
         {
             "name": "TOI-559 b",
             "description": "Found by TESS in 2022, TOI-559 b is a gas giant with a 6.98-day orbit. It orbits a G-type star, with a scorching surface temperature of 1180 K, making it a hot planet likely experiencing significant atmospheric loss.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you get 5 energy units and you get 69 points",
+            "effectsDescription": "The atmosphere here makes this planet not viable for life forms, at least now you know that",
             "image": "gasgiant1.png",
             "effects": {
-                "life": -8,
-                "energy": 5,
-                "points": 69
+                "life": 0,
+                "energy": 0,
+                "points": 750
             }
         },
         {
             "name": "TOI-2134 c",
             "description": "Discovered in October 2023 by TESS, TOI-2134 c is a warm, Neptune-sized planet orbiting a K5-type star. It has a long 95.5-day orbit, with a moderate surface temperature of 306 K, making it a possible candidate for atmospheric studies.",
             "summary": "A massive Gas Gigant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 10 energy units and you get 91 points",
+            "effectsDescription": "A sudden storm forces you to travel blind, you spend 25 energy trying yo make your way out",
             "image": "gasgiant1.png",
             "effects": {
                 "life": -2,
@@ -736,12 +736,12 @@
             "name": "HD 213885 b",
             "description": "Found by TESS in 2020, HD 213885 b is a super-Earth with a rapid 1-day orbit around a G-type star. Its surface reaches scorching temperatures of 2128 K, indicating it is likely a rocky world with intense heating from its host star.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 8 energy units and you get 59 points",
+            "effectsDescription": "You see a black hole with the size of a coin in the middle of the plateu, better leave before it is too late",
             "image": "neptunelike1.png",
             "effects": {
-                "life": -2,
-                "energy": -8,
-                "points": 59
+                "life": 0,
+                "energy": 0,
+                "points": 650
             }
         },
         {
