@@ -50,9 +50,10 @@ const Stats = ({ HP, Energy, Points, increaseHP, decreaseHP, increaseEnergy, dec
     if (value <= 50 || value >= 150) return 'red';
     return 'yellow';
   };
+  const isPortrait = window.innerHeight > window.innerWidth;
 
   return (
-    <div style={{ border: '2px solid #ccc', padding: '20px', borderRadius: '0 0 10px 0', width: '25vw', backgroundColor:"white", display:"flex", flexDirection:"column", textAlign:"center" }}>
+    <div style={{ border: '2px solid #ccc', padding: '20px', borderRadius: '0 0 10px 0', width: isPortrait ? 'calc(50vw)' : 'calc(25vw)', backgroundColor:"white", display:"flex", flexDirection:"column", textAlign:"center" }}>
       <h3>Ship Status Panel</h3>
 
       <h4>Ship's Health</h4>

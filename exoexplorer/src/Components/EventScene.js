@@ -15,13 +15,15 @@ function EventScene({ event, goToResultScene, applyEffects }) {
     };
 
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', flexDirection: "column", textAlign: "center" }}>
-            <h2 style={{color: "white"}}>{event.name}</h2>
+        <div style={{ display: 'flex', justifyContent: 'center', flexDirection: "column", textAlign: "center", padding: "1rem" }}>
+            <h1 style={{ color: "white" }}>{event.name}</h1>
             <TypingText text={event.description} speed={40}></TypingText>
-            {event.option1.description === "none" ? <></> :
-                <button onClick={handleOption1Click}>{event.option1.description}</button>
-            }
-            <button onClick={handleOption2Click}>{event.option2.description}</button>
+            <div >
+                {event.option1.description === "none" ? <></> :
+                    <button className='continue-button' style={{marginRight: "2rem"}} onClick={handleOption1Click}>{event.option1.description}</button>
+                }
+                <button className='continue-button' onClick={handleOption2Click}>{event.option2.description}</button>
+            </div>
         </div>
     );
 }

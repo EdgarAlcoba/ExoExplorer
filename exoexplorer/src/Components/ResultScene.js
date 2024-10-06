@@ -2,11 +2,10 @@ import React from 'react';
 
 function ResultScene({ choice, effect, goToPlanetScene }) {
   return (
-    <div>
-      <h2 style={{color: "white"}}>Resultado</h2>
-      <p style={{color: "white"}}>{effect}</p>
-      <p style={{color: "white"}}>Ahora, prepárate para explorar nuevos planetas.</p>
-      <button onClick={goToPlanetScene}>Continuar</button>
+    <div style={{padding:"1rem"}}>
+      <h2 style={{color: "white"}}>{effect}</h2>
+      <p style={{color: "white"}}>Now, prepare yourself to visit a new planet.</p>
+      <button className='continue-button' onClick={goToPlanetScene}>Continue</button>
     </div>
   );
 }

@@ -77,7 +77,7 @@ function Game() {
         }
     };
 
-    const toggleStats = (planet) => {
+    const toggleStats = () => {
         setShowStats(!showStats);
     }
 

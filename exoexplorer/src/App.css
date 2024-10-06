@@ -2,3 +2,21 @@
   margin: 0;
 }
 
+/* Button.css */
+.continue-button {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 15px;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.continue-button:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+  transform: scale(1.05);
+}

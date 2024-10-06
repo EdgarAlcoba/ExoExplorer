@@ -2,12 +2,11 @@ import React from 'react';
 import TypingText from './TypingText';
 import text from "../Assets/Texts.json"
 
-function InitialScene({ planets , goToPlanetScene}) {
+function InitialScene({goToPlanetScene}) {
     return (
         <>
-            <TypingText text={text.Intro} speed={40} />
-            <TypingText text={text.Rules} speed = {40} />
-            <button onClick={goToPlanetScene}>Start the adventure</button>
+            <TypingText text={text.Intro+"\n "+text.Rules} speed={40} />
+            <button className='continue-button' onClick={goToPlanetScene}>Start the adventure</button>
         </>
     );
 }
