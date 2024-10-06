@@ -1,6 +1,4 @@
 {
-  "Events": [
-    {
       "name": "Radial velocity: Watching for wobble",
       "description": "Orbiting planets cause stars to wobble in space, changing the color of the light astronomers observe.",
       "effects_description": "Your crew has discovered 3 additional exoplanets you can visit.",
@@ -23,149 +21,490 @@
         }
       }
     },
-    {
-      "name": "Transit: Searching for Shadows",
-      "description": "When a planet passes directly between its star and an observer, it dims the star's light by a measurable amount.",
+{
+      "name": "Transit: Searching for Sahdows",
+      "description": "When a planet passes directly between its star and an observer, it dims the star's light by a measureable amount.",
       "effects_description": "Your crew has discovered 2 exoplanets you can visit.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": 2
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 2
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 2
+        }
       }
     },
-    {
+{
       "name": "Direct imaging: Taking Pictures",
       "description": "Astronomers can take pictures of exoplanets by removing the overwhelming glare of the stars they orbit.",
-      "effects_description": "Your crew has discovered 1 exoplanet you can visit.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": 1
+      "effects_description": "Your crew has discovered 1 additional exoplanets you can visit.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 1
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 1
+        }
       }
     },
-    {
+{
       "name": "Gravitational Microlensing: Light in a Gravity Lens",
       "description": "Light from a distant star is bent and focused by gravity as a planet passes between the star and Earth.",
-      "effects_description": "Your crew has discovered 2 exoplanets you can visit.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": 2
+      "effects_description": "Your crew has discovered 2 additional exoplanets you can visit.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 2
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 2
+        }
       }
     },
-    {
+{
       "name": "Astrometry: Minuscule movements",
       "description": "The orbit of a planet can cause a star to wobble around in space in relation to nearby stars in the sky.",
-      "effects_description": "Your crew has discovered 1 exoplanet you can visit.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": 1
+      "effects_description": "Your crew has discovered 1 additional exoplanet you can visit.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 1
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 1
+        }
       }
     },
-    {
+{
       "name": "Database error",
-      "description": "The database of the navigator has incorrect positions of some exoplanets which are now out of ranges.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": -2
+      "description": "The database of the navigator has incorrect positions of some exoplanets which are now out of ranges",
+      "effects_description": "You have 2 less exoplanets for visit.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": -2
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": -2
+        }
       }
     },
-    {
+{
       "name": "Bad input",
-      "description": "Your pilot made a mistake introducing the next coordinates.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": null
+      "description": "Your pilot made a mistake introducing the next coordenates.",
+      "effects_description": "Choose randomly the next exoplanet",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+{
       "name": "Asteroid belt",
-      "description": "You've appeared inside an asteroid belt where you have to do evasion movements.",
-      "effects": {
-        "life": null,
-        "energy": -20,
-        "points": null,
-        "exoplanets": null
+      "description": "You've appeeared inside a asteroid belt whrere you have to do a evasion movements.",
+      "effects_description": "You loss 20 energy",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+{
       "name": "Dangerous asteroid",
-      "description": "An asteroid passed too close. Because of an emergency movement, the ship has been damaged.",
-      "effects": {
-        "life": -20,
-        "energy": null,
-        "points": null,
-        "exoplanets": null
+      "description": "A asteroid passed too close. Because of a emergency movement the ship has been damaged.",
+      "effects_description": "You loss 20 points of life.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": -20,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": -20,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+{
       "name": "Huge solar storm",
-      "description": "A huge solar storm hit the ship causing damages but recharging the batteries.",
-      "effects": {
-        "life": -20,
-        "energy": 20,
-        "points": null,
-        "exoplanets": null
+      "description": "A huge solar storm hit the ship causing damanges but recharging the batterys.",
+      "effects_description": "You loss 20 points of life and get 20 energy",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": -20,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": -20,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+{
       "name": "Solar storm",
-      "description": "A solar storm hit the ship recharging the batteries.",
-      "effects": {
-        "life": null,
-        "energy": 20,
-        "points": null,
-        "exoplanets": null
+      "description": "Solar storm hit the ship recharging the batterys.",
+      "effects_description": "You get 20 energy",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
     {
       "name": "A comet",
-      "description": "You pass near a comet. It's not relevant, but it's beautiful.",
-      "effects": {
-        "life": null,
-        "energy": null,
-        "points": null,
-        "exoplanets": null
+      "description": "You pass near a comet. Its not relevant, but its beatifull",
+      "effects_description": "Isn't it enough to see its beauty?",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+        {
       "name": "Asteroid impact",
-      "description": "An asteroid hit the ship causing severe damages.",
-      "effects": {
-        "life": -40,
-        "energy": null,
-        "points": null,
-        "exoplanets": null
+      "description": "An asteroid hit the ship causing several damages.",
+      "effects_description": "You loss 40 points of life.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": -40,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": -40,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
-      "name": "Imminent impact",
-      "description": "An asteroid is going to hit your ship. You can avoid the asteroid or prepare for the impact.",
-      "effects": {
-        "life": -40,
-        "energy": -20,
-        "points": null,
-        "exoplanets": null
+        {
+      "name": "Inminent impact",
+      "description": "An asteroid is going to hit your ship. You can avoid the asteroid or prepare to the impact.",
+      "effects_description": "If you decide avoid the asteoid you lose 20 of energy. Else you loss 40 of life.",
+      "option1": {
+        "description": "Emergency movement!",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "Imminent impact!",
+        "effects": {
+          "life": -40,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
     },
-    {
+},
+        {
       "name": "Supernova",
-      "description": "A nearby star has exploded into a supernova. The generated energy has increased your energy.",
-      "effects": {
-        "life": null,
-        "energy": 20,
-        "points": null,
-        "exoplanets": null
+      "description": "A near star has explode into a supernova. The generated energy has incresed your energy.",
+      "effects_description": "You get 20 of energy.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 20,
+          "points": 0,
+          "exoplanets": 0
+        }
       }
+    },
+        {
+      "name": "Transit Spectroscopy",
+      "description": "When light from a star travels through the atmosphere of an orbiting planet and reaches our telescopes tells about where it's been.",
+      "effects_description": "You can see the caracteistic of a planet",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0
+        }
+      }
+    },
+        {
+      "name": "Too close!",
+      "description": "You must avoid the impact of a huge asteroid",
+      "effects_description": "You loss 30 of energy",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -30,
+          "points": 0,
+          "exoplanets": 0
+        }
+      },
+      "option2": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -30,
+          "points": 0,
+          "exoplanets": 0
+        }
+      }
+    },
+},
+{
+  "name": "Black Hole Encounter: Gravitational Abyss",
+  "description": "A nearby black hole is pulling your ship closer with its intense gravitational field. You must decide how to respond.",
+  "effects_description": "You lose 30 points of energy or 50 points of life.",
+  "option1": {
+    "description": "Escape by using thrusters",
+    "effects": {
+      "life": 0,
+      "energy": -30,
+      "points": 0,
+      "exoplanets": 0
     }
-  ]
+  },
+  "option2": {
+    "description": "Risk a near pass",
+    "effects": {
+      "life": -50,
+      "energy": 0,
+      "points": 0,
+      "exoplanets": 0
+    }
+  }
+},
+{
+  "name": "Distant Supernova",
+  "description": "A nearby supernova explosion lights up the sky, giving your crew a spectacular view and boosting morale.",
+  "effects_description": "You gain 10 energy.",
+  "option1": {
+    "description": "Admire the supernova",
+    "effects": {
+      "life": 0,
+      "energy": 10,
+      "points": 0,
+      "exoplanets": 0
+    }
+  },
+  "option2": {
+    "description": "Continue course",
+    "effects": {
+      "life": 0,
+      "energy": 10,
+      "points": 0,
+      "exoplanets": 0
+    }
+  }
+},
+
+{
+  "name": "Nebula Crossing",
+  "description": "Your ship enters a dense nebula, affecting your sensors and requiring more energy to navigate.",
+  "effects_description": "You lose 15 energy.",
+  "option1": {
+    "description": "none",
+    "effects": {
+      "life": 0,
+      "energy": -15,
+      "points": 0,
+      "exoplanets": 0
+    }
+  },
+  "option2": {
+    "description": "none",
+    "effects": {
+      "life": 0,
+      "energy": -15,
+      "points": 0,
+      "exoplanets": 0
+    }
+  }
+},
+
+{
+  "name": "Meteor Shower",
+  "description": "After land on the exoplanet, our ship encounters a meteor shower. Small impacts damage the ship’s hull slightly.",
+  "effects_description": "You suffer damages.",
+  "option1": {
+    "description": "Brace for impact",
+    "effects": {
+      "life": -10,
+      "energy": 0,
+      "points": 0,
+      "exoplanets": 0
+    }
+  },
+  "option2": {
+    "description": "Attempt evasive maneuvers",
+    "effects": {
+      "life": -5,
+      "energy": 5,
+      "points": 0,
+      "exoplanets": 0
+    }
+  }
+},
+{
+  "name": "Exoplanetary Glitch",
+  "description": "Your ship's scanners malfunction, misidentifying the location of an exoplanet.",
+  "effects_description": "You lose 1 exoplanet from your visit list.",
+  "option1": {
+    "description": "none",
+    "effects": {
+      "life": 0,
+      "energy": 0,
+      "points": 0,
+      "exoplanets": -1
+    }
+  },
+  "option2": {
+    "description": "none",
+    "effects": {
+      "life": 0,
+      "energy": 0,
+      "points": 0,
+      "exoplanets": -1
+    }
+  }
 }
