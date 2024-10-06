@@ -339,7 +339,7 @@
         }
       },
       "option2": {
-        "description": "none",
+        "description": "Continue",
         "effects": {
           "life": 0,
           "energy": -30,
@@ -466,6 +466,198 @@
           "points": 0,
           "exoplanets": -1,
           "effects_description": "You lose 1 exoplanet from your visit list."
+        }
+      }
+    },
+    {
+      "name": "Interest asteroids",
+      "description": "Your systems have detected an anomaly in some little asteroids",
+      "option1": {
+        "description": "Investigate",
+        "effects": {
+          "life": 0,
+          "energy": -10,
+          "points": 400,
+          "exoplanets": 0,
+          "effects_description": "You obtain scientific samples from asteroids."
+        }
+      },
+      "option2": {
+        "description": "Its a waste of time",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0,
+          "effects_description": "You ignore the asteroids."
+        }
+      }
+    },
+    {
+      "name": "Strange signals",
+      "description": "The ship's intruments detect anomalys proceding from a near nebula.",
+      "option1": {
+        "description": "We must investigate",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 500,
+          "exoplanets": 0,
+          "effects_description": "You obtain scientific data."
+        }
+      },
+      "option2": {
+        "description": "Its too dangerous",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0,
+          "effects_description": "Continue to the next destination."
+        }
+      }
+    },
+    {
+      "name": "Multiple system",
+      "description": "The numerous stars of this system has interfere with our navigation computer causing some damage.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 500,
+          "exoplanets": 0,
+          "effects_description": "You obtain scientific data."
+        }
+      },
+      "option2": {
+        "description": "we have to be more careful",
+        "effects": {
+          "life": -20,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0,
+          "effects_description": "The intense gravitational forces of the stars has affect our armour."
+        }
+      }
+    },
+    {
+      "name": "Multiple system",
+      "description": "The numerous stars of this system has interfere with our navigation computer causing some damage.",
+      "option1": {
+        "description": "none",
+        "effects": {
+          "life": 0,
+          "energy": -20,
+          "points": 500,
+          "exoplanets": 0,
+          "effects_description": "You obtain scientific data."
+        }
+      },
+      "option2": {
+        "description": "we have to be more careful",
+        "effects": {
+          "life": -20,
+          "energy": 0,
+          "points": 0,
+          "exoplanets": 0,
+          "effects_description": "The intense gravitational forces of the stars has affect our armour."
+        }
+      }
+    },
+    {
+      "name": "A special system",
+      "description": "Although multiple star systems are very common, this system looks to have something special.",
+      "option1": {
+        "description": "Recolect data from the system.",
+        "effects": {
+          "life": 0,
+          "energy": -5,
+          "points": 100,
+          "exoplanets": 0,
+          "effects_description": "You obtain some scientific data."
+        }
+      },
+      "option2": {
+        "description": "Its just a multiple star system",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 10,
+          "exoplanets": 0,
+          "effects_description": "Continue the journey."
+        }
+      }
+    },
+    {
+      "name": "A neutron star",
+      "description": "Neutron stars are stellar remnants that pack more mass than the Sun into a sphere about as wide as New York City’s Manhattan Island is long.",
+      "option1": {
+        "description": "I must see it closer.",
+        "effects": {
+          "life": -30,
+          "energy": 0,
+          "points": 500,
+          "exoplanets": 0,
+          "effects_description": "The intense magnetic fields of neutron star damage electronic devices of the ship."
+        }
+      },
+      "option2": {
+        "description": "Interesting",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 200,
+          "exoplanets": 0,
+          "effects_description": "You collect interest information about the star."
+        }
+      }
+    },
+    {
+      "name": "Its too attractive",
+      "description": "A black hole eating a star has created a unique show.",
+      "option1": {
+        "description": "Let's get closer",
+        "effects": {
+          "life": -10,
+          "energy": -10,
+          "points": 500,
+          "exoplanets": 0,
+          "effects_description": "You get a better perspective of the phenomenon."
+        }
+      },
+      "option2": {
+        "description": "It may damage the ship",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 200,
+          "exoplanets": 0,
+          "effects_description": "You keep a safe distance."
+        }
+      }
+    },
+    {
+      "name": "Rest of a star",
+      "description": "A planetary nebula consisting of an expanding, glowing shell of ionized gas ejected from red giant stars late in their lives. We can collect some materials for reparations.",
+      "option1": {
+        "description": "Repair the ship",
+        "effects": {
+          "life": 50,
+          "energy": -20,
+          "points": 200,
+          "exoplanets": 0,
+          "effects_description": "The collected materials permit you to make fixes."
+        }
+      },
+      "option2": {
+        "description": "We don't have enough energy for fixes.",
+        "effects": {
+          "life": 0,
+          "energy": 0,
+          "points": 200,
+          "exoplanets": 0,
+          "effects_description": "You waste the opportunity."
         }
       }
     }
