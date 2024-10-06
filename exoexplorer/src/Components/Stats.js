@@ -5,7 +5,7 @@ const ProgressBar = ({ value, max, getColor }) => {
   const color = getColor(value);
 
   return (
-    <div style={{ margin: '10px 0', position: 'relative', width: '300px' }}>
+    <div style={{ position: 'relative' }}>
       {/* Progress bar*/}
       <div style={{
         width: '100%',
@@ -54,17 +54,17 @@ const Stats = ({ HP, Energy, Points, increaseHP, decreaseHP, increaseEnergy, dec
   };
 
   return (
-    <div style={{ border: '2px solid #ccc', padding: '20px', borderRadius: '10px', width: '400px' }}>
-      <h2>Ship Status Panel</h2>
+    <div style={{ border: '2px solid #ccc', padding: '20px', borderRadius: '0 0 10px 0', width: '25vw', backgroundColor:"white", display:"flex", flexDirection:"column", textAlign:"center" }}>
+      <h3>Ship Status Panel</h3>
 
-      <h3>Ship's Health</h3>
+      <h4>Ship's Health</h4>
       <ProgressBar value={HP} max={100} getColor={getColorHP} />
 
-      <h3>Energy Levels </h3>
+      <h4>Energy Levels </h4>
       <ProgressBar value={Energy} max={200} getColor={getColorEnergy} />
 
-      <h3>Scientific Points</h3>
-      <div style={{ fontSize: '24px', margin: '10px 0', color: 'blue' }}>
+      <h4>Scientific Points</h4>
+      <div style={{ fontSize: '24px', color: 'blue' }}>
         {Points} SP
       </div>
     </div>
