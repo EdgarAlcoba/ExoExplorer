@@ -41,13 +41,11 @@ const ProgressBar = ({ value, max, getColor }) => {
 // Stat Components
 const Stats = ({ HP, Energy, Points, increaseHP, decreaseHP, increaseEnergy, decreaseEnergy, increasePoints }) => {
 
-  // HP color
   const getColorHP = (value) => {
     if (value >= 50) return `rgb(${255 - (value - 50) * 5.1}, 255, 0)`;
     return `rgb(255, ${(value / 50) * 255}, 0)`;
   };
 
-  // Energy color
   const getColorEnergy = (value) => {
     if (value <= 50 || value >= 150) return 'red';
     return 'yellow';
