@@ -1,0 +1,14 @@
+{
+    "Planets" : [
+        {
+            "name" : "wolf 5003b",
+            "descripction" : "A neptune like frozen planet, twice the size of earth",
+            "effects_description" : "Because of the lower temperatures, you must use some energy to keep you warm",
+            "effects": {
+                "life": 0,
+                "energy": -20,
+                "points": 200
+            }
+        }
+    ]
+}
