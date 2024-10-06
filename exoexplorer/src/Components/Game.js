@@ -133,8 +133,8 @@ function Game() {
             {scene === 4 && (
                 <PlanetEventScene planet={actualPlanet} goToEventScene={goToEventScene} applyEffects={applyEffects}/>
             )}
-            {scene === 5 && <TypingText text={text.Win} speed={40}/>}
-            {scene === 6 && <h1>Game over</h1>}
+            {scene === 5 && <><TypingText text={text.Win} speed={40}/><h1 style={{padding:"1rem", color:"white"}}>Final Score: {points} SP</h1></>}
+            {scene === 6 && <><TypingText text="Game over" speed={40}/><h1 style={{padding:"1rem", color:"white"}}>Final Score: {points} SP</h1></>}
         </div>
     );
 }
