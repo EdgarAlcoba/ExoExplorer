@@ -15,7 +15,7 @@
             "name": "HATS-25 b",
             "description": "A hot gas giant orbiting a sun-like star, HATS-25 b completes its orbit in just over 4 days. Discovered in 2016, this planet boasts a scorching equilibrium temperature of 1277 K, making it a fascinating candidate for atmospheric studies.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 3 enery units and you get 76 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 3 energy units and you get 76 points",
             "effects": {
                 "life": -9,
                 "energy": -3,
@@ -48,7 +48,7 @@
             "name": "TOI-3757 b",
             "description": "A young planet discovered in 2022, TOI-3757 b orbits an M-type star with a period of 3.4 days. Despite its low mass, it has an equilibrium temperature of 759 K, making it an interesting case for atmospheric analysis.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 6 enery units and you get 70 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 6 energy units and you get 70 points",
             "effects": {
                 "life": -3,
                 "energy": -6,
@@ -59,7 +59,7 @@
             "name": "L 98-59 c",
             "description": "Orbiting an M-type star, L 98-59 c is a small, dense planet discovered in 2019 by TESS. Its short 3.6-day orbit and equilibrium temperature of 553 K suggest it's a hot, rocky world.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 9 enery units and you get 100 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 9 energy units and you get 100 points",
             "effects": {
                 "life": -1,
                 "energy": -9,
@@ -81,7 +81,7 @@
             "name": "L 98-59 b",
             "description": "Slightly smaller than its neighboring planet, L 98-59 b was also discovered in 2019. With a very short orbital period of 2.2 days and a modest temperature of 627 K, this planet is likely a hot, rocky world.",
             "summary": "A small terrestrial planet, rocky and Earth-like.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 7 enery units and you get 54 points",
+            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 7 energy units and you get 54 points",
             "effects": {
                 "life": -8,
                 "energy": -7,
@@ -103,7 +103,7 @@
             "name": "TOI-1408 b",
             "description": "TOI-1408 b, found in 2023, orbits a bright F-type star in about 4.4 days. Despite its large radius, its temperature is relatively cool at 593 K, making it a fascinating candidate for future studies.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 4 enery units and you get 68 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 4 energy units and you get 68 points",
             "effects": {
                 "life": -6,
                 "energy": -4,
@@ -191,7 +191,7 @@
             "name": "WASP-103 b",
             "description": "WASP-103 b is an ultra-hot Jupiter orbiting an F-type star in less than a day. Found in 2014, this planet's blistering temperature of 2508 K makes it one of the hottest known exoplanets.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 8 enery units and you get 79 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 8 energy units and you get 79 points",
             "effects": {
                 "life": -9,
                 "energy": -8,
@@ -202,7 +202,7 @@
             "name": "EPIC 246851721 b",
             "description": "This gas giant, discovered in 2018, orbits an F5 V star in just over 6 days. With an equilibrium temperature of 1401 K, EPIC 246851721 b is a prime target for studying exoplanet atmospheres.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 7 enery units and you get 75 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 7 energy units and you get 75 points",
             "effects": {
                 "life": -7,
                 "energy": -7,
@@ -235,7 +235,7 @@
             "name": "TOI-150.01",
             "description": "This hot gas giant, discovered in 2019, orbits an F-type star in just under 6 days. TOI-150.01 experiences extreme temperatures of 1404.5 K, making it a prime target for atmospheric analysis.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 enery units and you get 86 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 energy units and you get 86 points",
             "effects": {
                 "life": -10,
                 "energy": -7,
@@ -246,7 +246,7 @@
             "name": "K2-3 b",
             "description": "K2-3 b, found in 2015 by the Kepler Telescope, is a small, rocky planet orbiting a cool M-type star. Its moderate temperature of 501.3 K and 10-day orbit suggest it could be a temperate world with interesting surface conditions.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 9 enery units and you get 95 points",
+            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 9 energy units and you get 95 points",
             "effects": {
                 "life": -8,
                 "energy": -9,
@@ -257,7 +257,7 @@
             "name": "TOI-1408 c",
             "description": "Discovered in 2024, TOI-1408 c has a short 2.2-day orbit around an F-type star. This planet's small size and moderate temperature make it an intriguing candidate for future follow-up observations.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 0 enery units and you get 72 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 0 energy units and you get 72 points",
             "effects": {
                 "life": -5,
                 "energy": 0,
@@ -268,7 +268,7 @@
             "name": "K2-3 c",
             "description": "This exoplanet, also part of the K2-3 system, orbits its star in 24.6 days. Discovered in 2015, K2-3 c has a cooler equilibrium temperature of 371.8 K, which may indicate a more Earth-like environment.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 8 enery units and you get 94 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 8 energy units and you get 94 points",
             "effects": {
                 "life": -5,
                 "energy": -8,
@@ -279,7 +279,7 @@
             "name": "TOI-1685 b",
             "description": "TOI-1685 b, found in 2021, is a small, rocky planet orbiting an M3.0-type star in less than a day. With a surface temperature of 1069 K, this planet experiences intense stellar radiation, which could impact its atmospheric composition.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 5 enery units and you get 51 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 5 energy units and you get 51 points",
             "effects": {
                 "life": -2,
                 "energy": -5,
@@ -301,7 +301,7 @@
             "name": "TOI-4603 b",
             "description": "TOI-4603 b, found in 2023, is a massive exoplanet with an extreme mass over 14 times that of Jupiter. It has an orbital period of 7.2 days and a blistering temperature of 1677 K, placing it among the hottest known gas giants.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 4 enery units and you get 72 points",
+            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 4 energy units and you get 72 points",
             "effects": {
                 "life": -4,
                 "energy": -4,
@@ -323,7 +323,7 @@
             "name": "HATS-30 b",
             "description": "Discovered in 2016, HATS-30 b orbits a sun-like G-type star in just over 3 days. With an equilibrium temperature of 1414 K, this hot Jupiter likely has a thick atmosphere and a dynamic climate.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 4 enery units and you get 56 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 4 energy units and you get 56 points",
             "effects": {
                 "life": -7,
                 "energy": -4,
@@ -367,7 +367,7 @@
             "name": "BD+20 594 b",
             "description": "Found in 2016, BD+20 594 b is a large exoplanet with an impressive 41-day orbit around a G-type star. Its relatively cool temperature of 546 K could make it a more temperate world than other gas giants.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 6 enery units and you get 63 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 6 energy units and you get 63 points",
             "effects": {
                 "life": -2,
                 "energy": -6,
@@ -378,7 +378,7 @@
             "name": "K2-29 b",
             "description": "K2-29 b, discovered by the Kepler mission in 2016, is a hot gas giant orbiting a K-type star. With a 3.2-day orbit and temperatures reaching 1076 K, this planet is an example of a classic hot Jupiter.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 3 enery units and you get 86 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 3 energy units and you get 86 points",
             "effects": {
                 "life": -7,
                 "energy": -3,
@@ -400,7 +400,7 @@
             "name": "pi Men c",
             "description": "Discovered by TESS in 2018, pi Men c is a small, dense planet orbiting a G0 V star. Its 6.2-day orbit and temperature of 1169.8 K suggest it could have a molten surface or thick atmosphere.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 6 enery units and you get 99 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 6 energy units and you get 99 points",
             "effects": {
                 "life": -1,
                 "energy": -6,
@@ -411,7 +411,7 @@
             "name": "HAT-P-68 b",
             "description": "HAT-P-68 b, a hot Jupiter orbiting a K-type star, was discovered in 2021. With a temperature of 1027.8 K and a 2.29-day orbit, this planet likely has extreme weather patterns and a thick gaseous atmosphere.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 1 enery units and you get 67 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 1 energy units and you get 67 points",
             "effects": {
                 "life": -6,
                 "energy": -1,
@@ -433,7 +433,7 @@
             "name": "HD 97658 b",
             "description": "Discovered via radial velocity in 2011, HD 97658 b is a dense planet with a 9.4-day orbit around a K-type star. With a temperature of 757 K, it offers a rare example of a temperate super-Earth-like planet.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 2 enery units and you get 59 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 2 energy units and you get 59 points",
             "effects": {
                 "life": -1,
                 "energy": -2,
@@ -444,7 +444,7 @@
             "name": "HD 118203 b",
             "description": "Discovered in 2006 using radial velocity, HD 118203 b is a massive planet orbiting a K0-type subgiant star. With a 6.13-day orbit and a temperature of 1371 K, this gas giant likely experiences extreme atmospheric conditions.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 3 enery units and you get 55 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 3 energy units and you get 55 points",
             "effects": {
                 "life": -3,
                 "energy": -3,
@@ -455,7 +455,7 @@
             "name": "TOI-3261 b",
             "description": "Found by TESS in 2024, TOI-3261 b is a hot exoplanet orbiting a K1.5 star. Its extremely short 0.88-day orbit and high temperature of 1722 K suggest that it might be tidally locked, with one side always facing its host star.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 8 enery units and you get 87 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 8 energy units and you get 87 points",
             "effects": {
                 "life": -6,
                 "energy": -8,
@@ -477,7 +477,7 @@
             "name": "WASP-121 b",
             "description": "Discovered by SuperWASP in 2016, WASP-121 b is a large gas giant with a temperature of 2358 K. With its close 1.27-day orbit around an F6 star, it\u2019s one of the most intensely irradiated planets, likely experiencing atmospheric escape.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 4 enery units and you get 89 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 4 energy units and you get 89 points",
             "effects": {
                 "life": -1,
                 "energy": -4,
@@ -488,7 +488,7 @@
             "name": "GJ 1132 b",
             "description": "GJ 1132 b is a rocky planet orbiting a cool M4.5 dwarf star. Discovered in 2015, this planet\u2019s close orbit of just 1.6 days and temperature of 409 K make it a fascinating target for studying potential atmospheric processes.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 10 enery units and you get 80 points",
+            "effectsDescription": "Acording to the planet properties you lose 8 lives, you lose 10 energy units and you get 80 points",
             "effects": {
                 "life": -8,
                 "energy": -10,
@@ -510,7 +510,7 @@
             "name": "GJ 806 b",
             "description": "Found in 2023, GJ 806 b is a small exoplanet orbiting a cool M1.5-type star. Its short 0.92-day orbit and 940 K temperature suggest it may have a thick atmosphere or molten surface.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 7 enery units and you get 70 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 7 energy units and you get 70 points",
             "effects": {
                 "life": -3,
                 "energy": -7,
@@ -521,7 +521,7 @@
             "name": "TOI-561 c",
             "description": "TOI-561 c, discovered by TESS in 2020, is a dense planet orbiting a G9-type star. With a 10.7-day orbit and a relatively cool temperature of 800 K, this planet may have a stable atmosphere or water vapor.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 7 enery units and you get 72 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 7 energy units and you get 72 points",
             "effects": {
                 "life": -5,
                 "energy": -7,
@@ -576,7 +576,7 @@
             "name": "LHS 1140 c",
             "description": "Orbiting a cool M4.5 dwarf star, LHS 1140 c is a rocky planet with a 3.77-day orbit. Discovered in 2019, it has a surface temperature of 422 K, making it an intriguing planet for further atmospheric studies.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 6 enery units and you get 76 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 6 energy units and you get 76 points",
             "effects": {
                 "life": -5,
                 "energy": -6,
@@ -587,7 +587,7 @@
             "name": "TOI-1386 b",
             "description": "TOI-1386 b is a gas giant planet with a relatively long 25.8-day orbit. Discovered by TESS in 2024, this planet orbits a G5V-type star and has a temperature of 676 K, suggesting it resides further from its host star than typical hot Jupiters.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 0 enery units and you get 100 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 0 energy units and you get 100 points",
             "effects": {
                 "life": -7,
                 "energy": 0,
@@ -609,7 +609,7 @@
             "name": "WASP-193 b",
             "description": "WASP-193 b is a large gas giant orbiting an F9-type star, discovered in 2023. With a 6.2-day orbit and temperature of 1254 K, it falls into the category of 'hot Jupiters,' with an atmosphere that could be influenced by its star\u2019s intense radiation.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 6 enery units and you get 94 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 6 energy units and you get 94 points",
             "effects": {
                 "life": -9,
                 "energy": -6,
@@ -620,7 +620,7 @@
             "name": "K2-30 b",
             "description": "A hot Jupiter discovered by the K2 mission in 2016, K2-30 b orbits its G6-type star in just over 4 days. With a temperature of 1092 K, this gas giant experiences significant atmospheric heating due to its close proximity to the star.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 7 enery units and you get 76 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 7 energy units and you get 76 points",
             "effects": {
                 "life": -2,
                 "energy": -7,
@@ -631,7 +631,7 @@
             "name": "TOI-558 b",
             "description": "TOI-558 b is a large gas giant discovered in 2022. It orbits an F-type star in 14.57 days, with a temperature of 1061 K. Its size and moderate orbit make it an ideal target for atmospheric characterization.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 enery units and you get 65 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 7 energy units and you get 65 points",
             "effects": {
                 "life": -10,
                 "energy": -7,
@@ -642,7 +642,7 @@
             "name": "K2-24 c",
             "description": "K2-24 c is a gas giant discovered in 2016. With a 42-day orbit and a temperature of 606 K, this planet orbits a G3-type star and provides a valuable case for studying gas giants at wider separations.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 0 enery units and you get 56 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 0 energy units and you get 56 points",
             "effects": {
                 "life": -3,
                 "energy": 0,
@@ -653,7 +653,7 @@
             "name": "TOI-559 b",
             "description": "Found by TESS in 2022, TOI-559 b is a gas giant with a 6.98-day orbit. It orbits a G-type star, with a scorching surface temperature of 1180 K, making it a hot planet likely experiencing significant atmospheric loss.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 9 enery units and you get 88 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 9 energy units and you get 88 points",
             "effects": {
                 "life": -5,
                 "energy": -9,
@@ -664,7 +664,7 @@
             "name": "TOI-2134 c",
             "description": "Discovered in October 2023 by TESS, TOI-2134 c is a warm, Neptune-sized planet orbiting a K5-type star. It has a long 95.5-day orbit, with a moderate surface temperature of 306 K, making it a possible candidate for atmospheric studies.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 6 enery units and you get 70 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 6 energy units and you get 70 points",
             "effects": {
                 "life": -6,
                 "energy": -6,
@@ -686,7 +686,7 @@
             "name": "K2-30 b",
             "description": "A hot Jupiter discovered by the K2 mission in 2016, K2-30 b orbits its G6-type star in just over 4 days. With a temperature of 1092 K, this gas giant experiences significant atmospheric heating due to its close proximity to the star.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 7 enery units and you get 71 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 7 energy units and you get 71 points",
             "effects": {
                 "life": -6,
                 "energy": -7,
@@ -708,7 +708,7 @@
             "name": "HATS-12 b",
             "description": "HATS-12 b is a massive gas giant found in 2016, orbiting an F-type star. It has a 3.14-day orbit and a surface temperature of 2097 K, likely making it one of the hotter planets with a thick gaseous atmosphere.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 5 enery units and you get 66 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 5 energy units and you get 66 points",
             "effects": {
                 "life": -5,
                 "energy": -5,
@@ -719,7 +719,7 @@
             "name": "TOI-2641 b",
             "description": "Discovered by TESS in 2023, TOI-2641 b is a hot gas giant with a short 4.88-day orbit around an F9-type star. With a temperature of 1387 K, this planet is ideal for studying the effects of stellar radiation on close-in gas giants.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 5 enery units and you get 73 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 5 energy units and you get 73 points",
             "effects": {
                 "life": -10,
                 "energy": -5,
@@ -730,7 +730,7 @@
             "name": "TOI-2015 b",
             "description": "TOI-2015 b, discovered in October 2023 by TESS, is a small planet orbiting a cool M4-type star. With a 3.34-day orbit and surface temperature of 512 K, it offers a unique chance to study planets around low-mass stars.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 6 enery units and you get 88 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 6 energy units and you get 88 points",
             "effects": {
                 "life": -1,
                 "energy": -6,
@@ -763,7 +763,7 @@
             "name": "KELT-7 b",
             "description": "KELT-7 b is a hot Jupiter discovered in 2015, orbiting a hot F-type star in 2.73 days. With a scorching surface temperature of 2048 K, this planet is a quintessential hot Jupiter, likely experiencing significant atmospheric expansion.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 1 enery units and you get 75 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 1 energy units and you get 75 points",
             "effects": {
                 "life": -6,
                 "energy": -1,
@@ -774,7 +774,7 @@
             "name": "HATS-27 b",
             "description": "Discovered in 2016, HATS-27 b is a hot Jupiter orbiting an F-type star with a period of 4.63 days. With a surface temperature of 1659 K, this gas giant is a highly irradiated planet, ideal for studying the effects of intense stellar radiation.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 4 enery units and you get 84 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 4 energy units and you get 84 points",
             "effects": {
                 "life": -7,
                 "energy": -4,
@@ -785,7 +785,7 @@
             "name": "K2-24 b",
             "description": "K2-24 b, found by the K2 mission in 2016, is a gas giant orbiting a G3-type star. With a 20.88-day orbit and a temperature of 767 K, it is one of two planets in this system, likely featuring a thick atmosphere and moderate heating.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 3 enery units and you get 96 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 3 energy units and you get 96 points",
             "effects": {
                 "life": -10,
                 "energy": -3,
@@ -851,7 +851,7 @@
             "name": "HD 191939 c",
             "description": "Found in 2020, HD 191939 c is a Neptune-sized planet orbiting a G9-type star in 28.58 days. Its surface temperature of 605 K and moderate distance from its star make it an interesting candidate for exploring the outer atmosphere of Neptune-like worlds.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 0 enery units and you get 97 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 0 energy units and you get 97 points",
             "effects": {
                 "life": -5,
                 "energy": 0,
@@ -873,7 +873,7 @@
             "name": "TIC 139270665 b",
             "description": "Discovered in 2024, TIC 139270665 b is a Neptune-like planet orbiting a G2-type star with a period of 23.62 days. With a surface temperature of 703 K, this planet offers a cooler environment for the study of atmospheric composition compared to typical hot Neptunes.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 5 enery units and you get 55 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 5 energy units and you get 55 points",
             "effects": {
                 "life": -2,
                 "energy": -5,
@@ -884,7 +884,7 @@
             "name": "HATS-11 b",
             "description": "Discovered in 2016, HATS-11 b orbits a G0-type star with a period of 3.62 days. As a hot Jupiter with a surface temperature of 1637 K, it provides insights into the effects of extreme stellar radiation on gas giant atmospheres.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 8 enery units and you get 73 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 8 energy units and you get 73 points",
             "effects": {
                 "life": -7,
                 "energy": -8,
@@ -895,7 +895,7 @@
             "name": "HD 207897 b",
             "description": "Found in 2022, HD 207897 b is a super-Earth orbiting a K0-type star in 16.2 days. With a temperature of 632 K, it presents an opportunity to study a planet at the boundary between temperate and hot conditions.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 8 enery units and you get 56 points",
+            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 8 energy units and you get 56 points",
             "effects": {
                 "life": -4,
                 "energy": -8,
@@ -906,7 +906,7 @@
             "name": "HD 86226 c",
             "description": "HD 86226 c was discovered in 2020 orbiting a G1-type star with a period of 3.98 days. This Neptune-like planet has a surface temperature of 1311 K, making it a candidate for atmospheric studies under high heat conditions.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 7 enery units and you get 89 points",
+            "effectsDescription": "Acording to the planet properties you lose 7 lives, you lose 7 energy units and you get 89 points",
             "effects": {
                 "life": -7,
                 "energy": -7,
@@ -917,7 +917,7 @@
             "name": "Gliese 12 b",
             "description": "Gliese 12 b, discovered in 2024, orbits an M4-type star in 12.76 days. As a cool, small exoplanet with a temperature of 315 K, it is of particular interest for studying planets around low-mass stars.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 2 enery units and you get 56 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 2 energy units and you get 56 points",
             "effects": {
                 "life": -9,
                 "energy": -2,
@@ -928,7 +928,7 @@
             "name": "TOI-1685 b",
             "description": "TOI-1685 b, found in 2021, is a small, rocky planet orbiting an M3.0-type star in less than a day. With a surface temperature of 1069 K, this planet experiences intense stellar radiation, which could impact its atmospheric composition.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 5 enery units and you get 59 points",
+            "effectsDescription": "Acording to the planet properties you lose 4 lives, you lose 5 energy units and you get 59 points",
             "effects": {
                 "life": -4,
                 "energy": -5,
@@ -939,7 +939,7 @@
             "name": "TOI-776 b",
             "description": "TOI-776 b orbits an M1-type star with a period of 8.24 days. Discovered in 2021, this small planet has a temperature of 514 K and may have a thick atmosphere or be a candidate for habitability studies.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 9 enery units and you get 53 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 9 energy units and you get 53 points",
             "effects": {
                 "life": -9,
                 "energy": -9,
@@ -950,7 +950,7 @@
             "name": "Qatar-5 b",
             "description": "Qatar-5 b, discovered in 2017, is a hot Jupiter orbiting a G2-type star in just under 3 days. With a temperature of 1415 K, this gas giant is highly irradiated, providing a good target for atmospheric expansion research.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 9 enery units and you get 99 points",
+            "effectsDescription": "Acording to the planet properties you lose 9 lives, you lose 9 energy units and you get 99 points",
             "effects": {
                 "life": -9,
                 "energy": -9,
@@ -961,7 +961,7 @@
             "name": "TOI-4438 b",
             "description": "Discovered in 2024, TOI-4438 b is a small planet orbiting an M3.5-type star in 7.45 days. Its temperature of 435 K makes it a promising candidate for studying the atmospheres of rocky planets around cool stars.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 4 enery units and you get 73 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 4 energy units and you get 73 points",
             "effects": {
                 "life": -10,
                 "energy": -4,
@@ -983,7 +983,7 @@
             "name": "TOI-5542 b",
             "description": "TOI-5542 b is a gas giant discovered in 2022, orbiting a G3-type star in 75 days. With a surface temperature of 441 K, it represents a cooler gas giant, allowing for comparative studies with hotter exoplanets.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 7 enery units and you get 96 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 7 energy units and you get 96 points",
             "effects": {
                 "life": -2,
                 "energy": -7,
@@ -994,7 +994,7 @@
             "name": "Wolf 327 b",
             "description": "Discovered in 2024, Wolf 327 b orbits an M2.5-type star in just 0.57 days. This small planet, with a surface temperature of 996 K, faces intense radiation, offering a case for studying the interaction of close-in planets with their host stars.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 8 enery units and you get 73 points",
+            "effectsDescription": "Acording to the planet properties you lose 1 lives, you lose 8 energy units and you get 73 points",
             "effects": {
                 "life": -1,
                 "energy": -8,
@@ -1016,7 +1016,7 @@
             "name": "GJ 486 b",
             "description": "Found in 2021, GJ 486 b is a rocky planet orbiting an M3.5-type star in 1.47 days. With a surface temperature of 706 K, this planet is a prime candidate for atmospheric characterization using radial velocity data.",
             "summary": "A Super-Earth with potentially habitable conditions.",
-            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 1 enery units and you get 94 points",
+            "effectsDescription": "Acording to the planet properties you lose 5 lives, you lose 1 energy units and you get 94 points",
             "effects": {
                 "life": -5,
                 "energy": -1,
@@ -1027,7 +1027,7 @@
             "name": "TOI-163 b",
             "description": "TOI-163 b orbits an F-type star with a period of 4.23 days, discovered in 2019. This hot Jupiter has a surface temperature of 1669 K, making it an ideal target for studying the impacts of intense stellar radiation on large gas giants.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 2 enery units and you get 97 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 2 energy units and you get 97 points",
             "effects": {
                 "life": -10,
                 "energy": -2,
@@ -1038,7 +1038,7 @@
             "name": "TOI-561 d",
             "description": "TOI-561 d, found in 2020, orbits a G9-type star in 25.71 days. With a surface temperature of 598 K, this planet offers a glimpse into the atmospheric properties of temperate exoplanets at the edge of the habitable zone.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 9 enery units and you get 75 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 9 energy units and you get 75 points",
             "effects": {
                 "life": -3,
                 "energy": -9,
@@ -1049,7 +1049,7 @@
             "name": "KELT-20 b",
             "description": "KELT-20 b is a hot Jupiter discovered in 2017, orbiting an A2-type star in 3.47 days. With a surface temperature of 2262 K, it is one of the hottest exoplanets discovered, making it an excellent target for studying thermal dissipation in gas giants.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 1 enery units and you get 52 points",
+            "effectsDescription": "Acording to the planet properties you lose 2 lives, you lose 1 energy units and you get 52 points",
             "effects": {
                 "life": -2,
                 "energy": -1,
@@ -1060,7 +1060,7 @@
             "name": "TIC 237913194 b",
             "description": "Discovered in 2020, TIC 237913194 b orbits a G3-type star in 15.17 days. With a surface temperature of 974 K, this exoplanet is a great candidate for further study in the realm of transitional planets between temperate and hot environments.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 5 enery units and you get 60 points",
+            "effectsDescription": "Acording to the planet properties you lose 10 lives, you lose 5 energy units and you get 60 points",
             "effects": {
                 "life": -10,
                 "energy": -5,
@@ -1071,7 +1071,7 @@
             "name": "Qatar-8 b",
             "description": "Qatar-8 b, found in 2019, orbits a G0-type star with a period of 3.71 days. As a gas giant with a temperature of 1457 K, this planet presents a valuable case for studying the atmospheric dynamics of hot Jupiters.",
             "summary": "A massive gas giant, much larger than Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 7 enery units and you get 60 points",
+            "effectsDescription": "Acording to the planet properties you lose 6 lives, you lose 7 energy units and you get 60 points",
             "effects": {
                 "life": -6,
                 "energy": -7,
@@ -1093,7 +1093,7 @@
             "name": "TOI-2134 b",
             "description": "TOI-2134 b, discovered in 2023, orbits a K5-type star in 9.23 days. This super-Earth has a surface temperature of 666 K, making it an interesting candidate for studies on planets transitioning from temperate to hot conditions.",
             "summary": "A Neptune-like frozen planet, twice the size of Earth.",
-            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 7 enery units and you get 82 points",
+            "effectsDescription": "Acording to the planet properties you lose 3 lives, you lose 7 energy units and you get 82 points",
             "effects": {
                 "life": -3,
                 "energy": -7,
