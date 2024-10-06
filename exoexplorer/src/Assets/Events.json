@@ -636,30 +636,6 @@
           "effects_description": "You keep a safe distance."
         }
       }
-    },
-    {
-      "name": "Rest of a star",
-      "description": "A planetary nebula consisting of an expanding, glowing shell of ionized gas ejected from red giant stars late in their lives. We can collect some materials for reparations.",
-      "option1": {
-        "description": "Repair the ship",
-        "effects": {
-          "life": 50,
-          "energy": -20,
-          "points": 200,
-          "exoplanets": 0,
-          "effects_description": "The collected materials permit you to make fixes."
-        }
-      },
-      "option2": {
-        "description": "We don't have enough energy for fixes.",
-        "effects": {
-          "life": 0,
-          "energy": 0,
-          "points": 200,
-          "exoplanets": 0,
-          "effects_description": "You waste the opportunity."
-        }
-      }
     }
   ]
 }
