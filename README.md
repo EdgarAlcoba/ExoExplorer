@@ -20,7 +20,7 @@ Welcome to **ExoExplorer**! This application is designed to spark curiosity abou
 - Interactive visuals to enhance the learning experience.
 - User-friendly interface suitable for all ages.
 - Educational resources to deepen understanding of exoplanets.
-- Planet information provided by NASA.
+- Planet information provided by NASA ([Exoplanets web](/https://science.nasa.gov/exoplanets/), [API](https://exoplanetarchive.ipac.caltech.edu)).
 
 ## Technologies Used
 
@@ -83,7 +83,7 @@ We welcome contributions from anyone interested in helping improve **ExoExplorer
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You may not use the material for commercial purposes. See the LICENSE file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 1.0 International License. You may not use the material for commercial purposes. See the LICENSE file for more details.
 
 ---
 
